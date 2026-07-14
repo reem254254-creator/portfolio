@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Portfolio</title>
+</head>
+<body>
+<h1>Reem Al</h1>
+<p>IT Student</p>
+
+<h2>About Me</h2>
+<p>I am an Information Technology student passionate about web development and programming.</p>
+
+<h2>Skills</h2>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Python</li>
+</ul>
+
+<h2>Contact</h2>
+<p>Email: reem@example.com</p>
+</body>
+</html>
